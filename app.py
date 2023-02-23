@@ -2,7 +2,7 @@ import pickle
 import streamlit as st
 from streamlit_option_menu import option_menu
 
-
+<meta name="google-site-verification" content="D1qY2Ei1sEdFJEZcfIepg7XJshKGSdTXVyU9asn7gJM" />
 # loading the saved models
 
 basic_model = pickle.load(open('model.pkl', 'rb'))
