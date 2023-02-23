@@ -2,8 +2,7 @@ import pickle
 import streamlit as st
 from streamlit_option_menu import option_menu
 
-#<meta name="google-site-verification" content="D1qY2Ei1sEdFJEZcfIepg7XJshKGSdTXVyU9asn7gJM" />
-st.markdown(meta name="google-site-verification",content="D1qY2Ei1sEdFJEZcfIepg7XJshKGSdTXVyU9asn7gJM', unsafe_allow_html=True)
+
 
 # loading the saved models
 
