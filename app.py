@@ -144,5 +144,15 @@ if (selected == 'FeedBack Form Page'):
 
     local_css("style/style.css")
 
+hide_st_style = """
+            <style>
+            #MainMenu {visibility: hidden;}
+            footer {visibility: hidden;}
+            header {visibility: hidden;}
+            .css-1rs6os {visibility: hidden;}
+            .css-17ziqus {visibility: hidden;}
+            """
+st.markdown(hide_st_style,unsafe_allow_html=True
+
 
         
