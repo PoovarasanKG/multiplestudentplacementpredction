@@ -2,8 +2,7 @@ import pickle
 import streamlit as st
 from streamlit_option_menu import option_menu
 
-st.set_page_config(page_title="Multiple Placement Prediction")
-st.header('multiple placement prediction application used for predict therie placement possibility')
+st.set_page_config(page_title="MultiplePlacementPrediction")
 
 
 hide_st_style = """
